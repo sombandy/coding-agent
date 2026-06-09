@@ -1,0 +1,4 @@
+interface:
+  display_name: "Switch to som-dev"
+  short_description: "Switch to som-dev, rebase, and clean AI branches"
+  default_prompt: "Use $switch2som-dev to switch this repo to som-dev, rebase on origin/main, and delete local AI-generated branches."
